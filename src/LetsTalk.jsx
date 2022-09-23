@@ -2,7 +2,7 @@ import React from "react";
 
 function LetsTalk() {
   return (
-    <div className="p-10 border sm:p-32 border-sky-500">
+    <div className="p-10 border sm:p-32 border-sky-500 bg-gradient-to-r from-cyan-50 via-blue-400 to-cyan-50">
       <div className="text-6xl sm:flex sm:justify-center text-primary-dark ">
         Lets talk
       </div>
@@ -17,7 +17,7 @@ function LetsTalk() {
         </div>
       </div>
 
-      <div className="flex justify-center mt-8 ">
+      <div className="justify-center mt-8 sm:flex ">
         <div className="flex flex-col">
           <label for="Subject">Subject</label>
           <input id="Subject" className="h-10 w-60"></input>
@@ -27,9 +27,10 @@ function LetsTalk() {
       <div className="justify-center sm:flex">
         <div className="flex flex-col">
           <label for="Message">Message</label>
-          <textarea rows="4" cols="60" id="Message" className=""></textarea>
+          <textarea rows="4" cols="60" id="Message"></textarea>
         </div>
       </div>
+
       <div className="justify-center mt-5 sm:flex">
         <button className="py-3 text-white rounded hover:bg-primary-default px-7 bg-primary-dark">
           Send Message

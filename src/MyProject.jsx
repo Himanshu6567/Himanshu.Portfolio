@@ -15,7 +15,7 @@ function MyProject() {
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500"
               href="https://assignment-1-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >
@@ -32,7 +32,7 @@ function MyProject() {
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500"
               href="https://assignment-20-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >
@@ -49,7 +49,7 @@ function MyProject() {
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500"
               href="https://assignment-17-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >
@@ -66,7 +66,7 @@ function MyProject() {
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500"
               href="https://assignment-19-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >
@@ -83,7 +83,7 @@ function MyProject() {
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500 "
               href="https://assignment-19-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >
@@ -94,13 +94,13 @@ function MyProject() {
 
         <div className="max-w-sm p-2 bg-yellow-100 border-2 rounded-md">
           <img className="" src="/image/portfio1.png" />
-          <h className="text-2xl"> Figma link</h>
+          <h className="text-2xl">Portfolio account</h>
           <br></br>
 
           <br></br>
           <div className="mt-5">
             <a
-              className="px-5 py-1 bg-green-400 rounded"
+              className="px-5 py-1 text-white bg-green-400 rounded hover:bg-red-500"
               href="https://assignment-8-himanshu76.codeyogi-batch-2.repl.co/"
               target="_blank"
             >

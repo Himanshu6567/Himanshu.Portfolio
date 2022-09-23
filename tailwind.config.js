@@ -31,6 +31,9 @@ module.exports = {
       sky: colors.sky,
       solid: colors.solid,
       yellow: colors.yellow,
+      indigo: colors.indigo, //
+      cyan: colors.cyan, //
+      pink: colors.pink,
     },
   },
   plugins: [],

@@ -21,7 +21,7 @@ function Home() {
         </p>
         <div class="flex justify-center sm:justify-start ">
           <a
-            class="px-3 bg-primary-dark text-white mt-4"
+            class="px-4 py-2 bg-primary-dark text-white mt-4 rounded drop-shadow-xl "
             target="_blank"
             href="/image/Resume.pdf"
           >

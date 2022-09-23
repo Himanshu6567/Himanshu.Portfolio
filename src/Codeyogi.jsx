@@ -11,7 +11,7 @@ function Codeyogi() {
         <br></br>
       </div>
 
-      <div className="flex items-center justify-center">
+      <div className="flex items-center justify-center mt-5">
         <h>for more info. </h>
         <a href="https://codeyogi.io/" target="_blank">
           <img

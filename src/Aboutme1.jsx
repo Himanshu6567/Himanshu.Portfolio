@@ -2,7 +2,7 @@ import React from "react";
 
 function AboutMe1() {
   return (
-    <div>
+    <div classname="bg-white">
       <div className="flex items-end w-full h-24 p-3 px-6 overflow-hidden text-3xl bg-white">
         <h className="text-primary-default">About me</h>
       </div>
