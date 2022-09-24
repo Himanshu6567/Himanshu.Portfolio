@@ -16,8 +16,10 @@ function Home() {
         </h>
 
         <p class="text-center mt-4 mx-3 ">
-          I'm a frondend developer and this is my official portfolio website to
-          showes all details and work exprins web development.
+          A multidisciplinary
+          <span className="text-primary-dark"> developer </span>and
+          <span className="text-primary-dark"> designer </span>
+          with a passion for creating engaging, entertaining user experiences.
         </p>
         <div class="flex justify-center sm:justify-start ">
           <a
@@ -37,9 +39,10 @@ function Home() {
           </h>
 
           <p class=" text-xl mt-12 ">
-            I'm a frondend developer and this is my official <br></br>portfolio
-            website to showes all details and work<br></br> exprins web
-            development.
+            A multidisciplinary
+            <span className="text-primary-dark"> developer </span>and
+            <span className="text-primary-dark"> designer </span>
+            with a passion for creating engaging, entertaining user experiences.
           </p>
           <div class="flex justify-start ">
             <a
