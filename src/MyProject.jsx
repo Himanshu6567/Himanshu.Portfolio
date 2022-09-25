@@ -4,7 +4,7 @@ function MyProject() {
   return (
     <div className="p-4">
       <div className="flex justify-center mb-6 text-3xl">
-        <h>My projects</h>
+        <h>My Projects</h>
       </div>
       <div className="flex flex-wrap justify-center gap-4">
         <div className="max-w-sm p-2 bg-yellow-100 border-2 rounded-md">

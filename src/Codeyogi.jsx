@@ -5,7 +5,7 @@ function Codeyogi() {
     <div className="p-8 mt-28 bg-blue-50">
       <div className="flex justify-center px-5 text-2xl ">
         <h>
-          "i am student of codeyogi, codeyogi offers me 6 month log free
+          "i am student of codeyogi, codeyogi offers me 6 month long free
           software engneering program."
         </h>
         <br></br>
